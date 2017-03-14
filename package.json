@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-meridian",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
